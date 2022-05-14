@@ -30,7 +30,7 @@ int main() {
          return 0;
       }
    }
-
    printf("%c\n", big + 65);
+
    return 0;
 }
