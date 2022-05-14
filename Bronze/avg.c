@@ -42,7 +42,7 @@ double calc(double *room, int big) {
       temp /= big;
       sum += temp;
    }
-   
    sum /= N;
+
    return sum;
 }
