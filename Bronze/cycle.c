@@ -17,7 +17,6 @@ int main(int argc, char *argv[]) {
     count++;
     if(num == result) break;
   }
-
   printf("%d\n", count); //this
 
   return 0;
