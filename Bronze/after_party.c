@@ -10,5 +10,6 @@ int main() {
 		printf("%d ", area - people);
 	}
 	printf("\n");
+
 	return 0;
 }
