@@ -15,5 +15,6 @@ int main(int argc, char *argv[]){
       if(temp%10 == 0) printf("10\n");
       else printf("%d\n", temp%10);
    }
+
    return 0;
 }
