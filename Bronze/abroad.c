@@ -23,5 +23,6 @@ int main() {
       else printf("%c", buff[i]);
    }
    printf("\n");
+
    return 0;
 }
